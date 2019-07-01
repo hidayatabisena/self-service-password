@@ -185,7 +185,7 @@ $mail_attribute = "mail";
 # Get mail address directly from LDAP (only first mail entry)
 # and hide mail input field
 # default = false
-$mail_address_use_ldap = false;
+$mail_address_use_ldap = true;
 # Who the email should come from
 $mail_from = "admin@example.com";
 $mail_from_name = "Self Service Password";
