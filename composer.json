@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ext-openssl": "*",
+        "ext-mbstring": "*",
+        "ext-curl": "*",
+        "ext-ldap": "*"
+    }
+}
